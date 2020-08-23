@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class MpgpredictConfig(AppConfig):
-    name = 'Mpgpredict'
+class BmiAppConfig(AppConfig):
+    name = 'Bmi_app'
